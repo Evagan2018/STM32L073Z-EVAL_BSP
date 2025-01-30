@@ -1,0 +1,4 @@
+loadboard STM32L073Z-EVAL allmodes
+project name STM32CubeMX
+project toolchain "STM32CubeIDE"
+SetCopyLibrary "copy only"
