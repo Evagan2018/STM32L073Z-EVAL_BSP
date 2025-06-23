@@ -24,7 +24,6 @@
       - updated settings in vcpkg-configuration.json file to use cmsis-toolbox 2.9.0
       - updated RTE_Components.h file.
       - added Blinky+STM32L073Z-EVAL.dbgconf and Blinky+STM32L073Z-EVAL.dbgconf.base@0.0.0 files.
-      - updated Test-Examples.yml and Test-MDK-Middleware-RefApps.yml workflows.
     </release>
   </releases>
 
