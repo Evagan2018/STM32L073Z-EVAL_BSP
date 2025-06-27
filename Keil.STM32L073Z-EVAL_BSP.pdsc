@@ -21,6 +21,8 @@
       - rename thread IDs
       - modify app_main_thread (replace loop forever)
       - add DWARF-5 debug information
+      - updated RTE_Components.h file.
+      - added Blinky+STM32L073Z-EVAL.dbgconf and Blinky+STM32L073Z-EVAL.dbgconf.base@0.0.0 files.
     </release>
   </releases>
 
